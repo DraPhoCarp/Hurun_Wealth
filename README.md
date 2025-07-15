@@ -95,11 +95,7 @@ python src/Hurun_Analysis.py
 
 3. **地域特征**：
    - [描述富豪出生地与居住地的分布特点]
-
-### 可视化示例
-
-![行业富豪数量分布](doc/Charts/industry_counts_atomic_bar_chart.png)
-![年龄分布](doc/Charts/age_distribution_hist.png)
+   
 
 ## 注意事项
 
